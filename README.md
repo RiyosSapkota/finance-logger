@@ -201,7 +201,7 @@ Message your Telegram bot:
 
 ## 🤝 Try it yourself
 
-👉 **Telegram Bot:** [t.me/@riyos_finance_bot)
+👉 **Telegram Bot:** [t.me/riyos_finance_bot](https://t.me/riyos_finance_bot)
 
 ---
 
