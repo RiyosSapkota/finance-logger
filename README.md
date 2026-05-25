@@ -71,34 +71,31 @@ Bot: ✅ Deleted last entry: 50 AED - Food - shawarma dinner
 
 ---
 
+
+
+
 ## 🏗 Architecture
 
 ![Workflow] <img width="1445" height="688" alt="image" src="https://github.com/user-attachments/assets/9fac447d-60b5-49ed-9396-162fc4237a85" />
-
+```
 Telegram Message
-↓
-n8n Webhook
-↓
-Switch Node
-┌────┴────┐
-│         │
+       ↓
+   n8n Webhook
+       ↓
+  Switch Node
+  ┌────┴────┐
+  │         │
 /summary  Expense
-│         │
-│      Groq AI
-│      (categorize)
-│         │
-│      Supabase
-│      (save)
-│         │
-└────┬────┘
-↓
-Telegram Reply
-
-Budget Check
-Alert if needed
-
-
----
+  │         │
+  │      Groq AI
+  │         │
+  │      Supabase
+  │         │
+  └────┬────┘
+       ↓
+  Telegram Reply
+  + Budget Alert
+```
 
 ## 📊 Dashboard
 
@@ -203,7 +200,7 @@ Message your Telegram bot:
 
 ## 🤝 Try it yourself
 
-👉 **Telegram Bot:** [t.me/YOUR_BOT_NAME](https://t.me/YOUR_BOT_NAME)
+👉 **Telegram Bot:** [t.me/YOUR_BOT_NAME](https://t.me/@riyos_finance_bot )
 
 ---
 
@@ -214,7 +211,7 @@ MIT — free to use, modify and distribute.
 ---
 
 <div align="center">
-Built with ❤️ by <a href="https://github.com/YOUR_USERNAME">Riyos</a>
+Built with ❤️ by <a href="https://github.com/RiyosSapkota">Riyos</a>
 <br>
 ⭐ Star this repo if you find it useful!
 </div>
