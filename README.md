@@ -99,7 +99,8 @@ Telegram Message
 
 ## 📊 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard]<img width="1383" height="941" alt="image" src="https://github.com/user-attachments/assets/81beba6a-0923-43e8-82bf-fae815ebbd9d" />
+
 
 Built with Metabase showing:
 - 🍩 Expenses by category (donut chart)
@@ -200,7 +201,7 @@ Message your Telegram bot:
 
 ## 🤝 Try it yourself
 
-👉 **Telegram Bot:** [t.me/YOUR_BOT_NAME](https://t.me/@riyos_finance_bot )
+👉 **Telegram Bot:** [t.me/@riyos_finance_bot)
 
 ---
 
